@@ -1,2 +1,2 @@
-# React-2048
-a 2048 game on react
+# 2048
+A simple 2048 game in React.
